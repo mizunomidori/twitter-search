@@ -1,0 +1,35 @@
+name: Github Actions - Create JSON file from Twitter search results
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 */2 * * *'
+
+jobs:
+  search-tweets:
+    runs-on: ubuntu-latest
+
+    env:
+      BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+          architecture: x64
+
+      - name: Run search-tweets.py
+        run: python search-tweets.py
+
+      - name: git push
+        run: |
+          git config --global user.email "appleseedxxx@gmail.com"
+          git config --global user.name "Github Actions"
+          git add tweets.json
+          git commit -m "Github Actions (SHA ${GITHUB_SHA})"
+          git push origin main

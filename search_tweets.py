@@ -29,6 +29,10 @@ class TwitterSearch():
         return response.json()
 
 def main():
+    filename = './tweets.json'
+    max_results = 100
+    min_like_count = 10
+
     search_url = "https://api.twitter.com/2/tweets/search/recent"
     # search_url = "https://api.twitter.com/2/tweets/search/all"
     # search_url = "https://api.twitter.com/2/spaces/search"
@@ -37,7 +41,7 @@ def main():
     expansions = 'attachments.media_keys,referenced_tweets.id'
     media_fields = 'type,url,height,width'
     tweet_fields = 'created_at,entities,public_metrics'
-    query_params = {'query': query, 'max_results': 50, 'expansions': expansions, 'media.fields': media_fields, 'tweet.fields': tweet_fields}
+    query_params = {'query': query, 'max_results': max_results, 'expansions': expansions, 'media.fields': media_fields, 'tweet.fields': tweet_fields}
 
     twitter = TwitterSearch()
     json_response = twitter.connect_to_endpoint(search_url, query_params)
@@ -45,14 +49,14 @@ def main():
 
     indices = []
     for (index, tweet) in enumerate(json_response['data']):
-        if tweet['public_metrics']['like_count'] < 10:
+        if tweet['public_metrics']['like_count'] < min_like_count:
             indices.append(index)
 
     for index in reversed(indices):
         del json_response['data'][index]
         del json_response['includes']['media'][index]
 
-    with open('./test.json', 'w', encoding='utf8') as f:
+    with open(filename, 'w', encoding='utf8') as f:
         json.dump(json_response, f, indent=2, sort_keys=True, ensure_ascii=False)
 
 
