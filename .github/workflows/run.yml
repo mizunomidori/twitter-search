@@ -23,8 +23,8 @@ jobs:
           python-version: '3.x'
           architecture: x64
 
-      - name: Run search-tweets.py
-        run: python search-tweets.py
+      - name: Run search_tweets.py
+        run: python search_tweets.py
 
       - name: git push
         run: |
