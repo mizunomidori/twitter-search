@@ -3,6 +3,115 @@
     {
       "attachments": {
         "media_keys": [
+          "3_1551779267448836096"
+        ]
+      },
+      "created_at": "2022-07-26T03:59:45.000Z",
+      "entities": {
+        "annotations": [
+          {
+            "end": 21,
+            "normalized_text": "光の庭",
+            "probability": 0.5609,
+            "start": 19,
+            "type": "Other"
+          }
+        ],
+        "hashtags": [
+          {
+            "end": 64,
+            "start": 52,
+            "tag": "oilpainting"
+          },
+          {
+            "end": 69,
+            "start": 66,
+            "tag": "油絵"
+          },
+          {
+            "end": 73,
+            "start": 70,
+            "tag": "絵画"
+          },
+          {
+            "end": 76,
+            "start": 74,
+            "tag": "絵"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.twitter.com/93LuKjcilL",
+            "end": 100,
+            "expanded_url": "https://twitter.com/yukosaito22/status/1551779279104802818/photo/1",
+            "media_key": "3_1551779267448836096",
+            "start": 77,
+            "url": "https://t.co/93LuKjcilL"
+          }
+        ]
+      },
+      "id": "1551779279104802818",
+      "public_metrics": {
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "1620×1940mm(F130)\n「光の庭」              \n油彩・キャンバス\n2010\n#oilpainting  #油絵 #絵画 ＃絵 https://t.co/93LuKjcilL"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1551769552748707840"
+        ]
+      },
+      "created_at": "2022-07-26T03:21:08.000Z",
+      "entities": {
+        "annotations": [
+          {
+            "end": 11,
+            "normalized_text": "烟る郷海",
+            "probability": 0.2885,
+            "start": 8,
+            "type": "Other"
+          }
+        ],
+        "hashtags": [
+          {
+            "end": 100,
+            "start": 90,
+            "tag": "遥か彼方の異聞奇譚"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.twitter.com/hqrquC96xR",
+            "end": 124,
+            "expanded_url": "https://twitter.com/Pecalatta/status/1551769562504462337/photo/1",
+            "media_key": "3_1551769552748707840",
+            "start": 101,
+            "url": "https://t.co/hqrquC96xR"
+          }
+        ]
+      },
+      "id": "1551769562504462337",
+      "public_metrics": {
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1551100359372066816",
+          "type": "replied_to"
+        }
+      ],
+      "text": "作品紹介⑤\n●「烟る郷海」(油彩/F4キャンバス)\n立ち上る工場の煙で、温かく烟る郷土の海。遊具やローカル線などを交えてノスタルジックに描きました。\n記憶の中の、幻想の故郷です。\n#遥か彼方の異聞奇譚 https://t.co/hqrquC96xR"
+    },
+    {
+      "attachments": {
+        "media_keys": [
           "3_1551719038845612032",
           "3_1551719042700161024",
           "3_1551719046974156800",
@@ -171,7 +280,7 @@
       },
       "id": "1551695790438920193",
       "public_metrics": {
-        "like_count": 17,
+        "like_count": 18,
         "quote_count": 0,
         "reply_count": 0,
         "retweet_count": 1
@@ -338,7 +447,7 @@
       },
       "id": "1551681845409955842",
       "public_metrics": {
-        "like_count": 30,
+        "like_count": 31,
         "quote_count": 0,
         "reply_count": 0,
         "retweet_count": 4
@@ -381,9 +490,9 @@
       },
       "id": "1551669184135716864",
       "public_metrics": {
-        "like_count": 172,
+        "like_count": 190,
         "quote_count": 1,
-        "reply_count": 2,
+        "reply_count": 3,
         "retweet_count": 12
       },
       "text": "おはようございます\n\n『朝の光の中で』\n                     油彩  F4号  2016年 https://t.co/5vB0AnOTTp"
@@ -489,7 +598,7 @@
       },
       "id": "1551585602373464064",
       "public_metrics": {
-        "like_count": 43,
+        "like_count": 44,
         "quote_count": 0,
         "reply_count": 0,
         "retweet_count": 2
@@ -581,10 +690,10 @@
       },
       "id": "1551582116739424256",
       "public_metrics": {
-        "like_count": 125,
+        "like_count": 127,
         "quote_count": 0,
         "reply_count": 0,
-        "retweet_count": 11
+        "retweet_count": 12
       },
       "text": "友沢こたおさんの個展「Monochrome」をGINZA SIXのFOAM CONTEMPORARYで見た。新アートスペースの柿落とし展。モノクロの新作油彩画による展覧会。東京藝術大学大学院油画第一研究室在籍中の新進気鋭のアーティスト。7/26まで。 https://t.co/ix8T3A9pN5"
     },
@@ -616,7 +725,7 @@
       },
       "id": "1551579888783486976",
       "public_metrics": {
-        "like_count": 98,
+        "like_count": 99,
         "quote_count": 0,
         "reply_count": 3,
         "retweet_count": 9
@@ -661,7 +770,7 @@
       },
       "id": "1551579649582346240",
       "public_metrics": {
-        "like_count": 13,
+        "like_count": 14,
         "quote_count": 0,
         "reply_count": 0,
         "retweet_count": 0
@@ -992,7 +1101,7 @@
       },
       "id": "1551570231990308864",
       "public_metrics": {
-        "like_count": 50,
+        "like_count": 52,
         "quote_count": 0,
         "reply_count": 1,
         "retweet_count": 6
@@ -1069,10 +1178,10 @@
       },
       "id": "1551569238959464448",
       "public_metrics": {
-        "like_count": 59,
+        "like_count": 61,
         "quote_count": 0,
         "reply_count": 0,
-        "retweet_count": 8
+        "retweet_count": 9
       },
       "text": "小川エリ「待宵」SM　油彩　デジタル　金箔\n\nhttps://t.co/nHPlFtgQUV\n\nhttps://t.co/0AHN5b5wfC https://t.co/maZjwmarZk"
     },
@@ -1097,7 +1206,7 @@
       },
       "id": "1551568106077560832",
       "public_metrics": {
-        "like_count": 110,
+        "like_count": 116,
         "quote_count": 0,
         "reply_count": 1,
         "retweet_count": 17
@@ -1299,7 +1408,7 @@
       },
       "id": "1551550174073262080",
       "public_metrics": {
-        "like_count": 116,
+        "like_count": 117,
         "quote_count": 0,
         "reply_count": 1,
         "retweet_count": 4
@@ -1488,98 +1597,12 @@
       },
       "id": "1551537375511465984",
       "public_metrics": {
-        "like_count": 114,
+        "like_count": 116,
         "quote_count": 1,
         "reply_count": 0,
         "retweet_count": 5
       },
       "text": "タイトル「焔」\nサイズ　P6号\nパネルに油彩\n#art #oilpainting https://t.co/4FJdtmihre"
-    },
-    {
-      "attachments": {
-        "media_keys": [
-          "3_1551537191851270145"
-        ]
-      },
-      "created_at": "2022-07-25T11:57:48.000Z",
-      "entities": {
-        "urls": [
-          {
-            "display_url": "pic.twitter.com/al34djGnXe",
-            "end": 34,
-            "expanded_url": "https://twitter.com/bw_yw3/status/1551537197140291584/photo/1",
-            "media_key": "3_1551537191851270145",
-            "start": 11,
-            "url": "https://t.co/al34djGnXe"
-          }
-        ]
-      },
-      "id": "1551537197140291584",
-      "public_metrics": {
-        "like_count": 170,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 5
-      },
-      "text": "油彩途中☺️☺️☺️ https://t.co/al34djGnXe"
-    },
-    {
-      "attachments": {
-        "media_keys": [
-          "3_1551535433620008960"
-        ]
-      },
-      "created_at": "2022-07-25T11:50:50.000Z",
-      "entities": {
-        "annotations": [
-          {
-            "end": 9,
-            "normalized_text": "オランダ",
-            "probability": 0.9494,
-            "start": 6,
-            "type": "Place"
-          },
-          {
-            "end": 41,
-            "normalized_text": "ロンドン展",
-            "probability": 0.3402,
-            "start": 37,
-            "type": "Place"
-          },
-          {
-            "end": 53,
-            "normalized_text": "メトロポリタン美術館展",
-            "probability": 0.4804,
-            "start": 43,
-            "type": "Place"
-          }
-        ],
-        "hashtags": [
-          {
-            "end": 150,
-            "start": 140,
-            "tag": "ポストカード美術館"
-          }
-        ],
-        "urls": [
-          {
-            "display_url": "pic.twitter.com/y3cIgNwGup",
-            "end": 174,
-            "expanded_url": "https://twitter.com/e53E6681/status/1551535442423840768/photo/1",
-            "media_key": "3_1551535433620008960",
-            "start": 151,
-            "url": "https://t.co/y3cIgNwGup"
-          }
-        ]
-      },
-      "id": "1551535442423840768",
-      "public_metrics": {
-        "like_count": 14,
-        "quote_count": 0,
-        "reply_count": 1,
-        "retweet_count": 0
-      },
-      "text": "7/15は、オランダの巨匠レンブラントの誕生日でした(10日前..)🎉\nロンドン展、メトロポリタン美術館展で見た2枚は特に思い入れが！\n油彩を初めて見た時の、質感や筆さばきに息を呑んだ体験は忘れられない大切な思い出\n\n《34歳の自画像》(1640)\n《フローラ》(1654頃)\n\n#ポストカード美術館 https://t.co/y3cIgNwGup"
     }
   ],
   "errors": [
@@ -1597,11 +1620,39 @@
   "includes": {
     "media": [
       {
-        "height": 581,
-        "media_key": "3_1551746921982619648",
+        "height": 1060,
+        "media_key": "3_1551780542517215232",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/FYjpmqIUcAAl6TY.jpg",
-        "width": 717
+        "url": "https://pbs.twimg.com/media/FYkILoYaAAAzBLg.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1046,
+        "media_key": "3_1551774056793329664",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FYkCSHLVUAAmRl2.jpg",
+        "width": 1400
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1551748909994676225",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FYjraYDVEAEP3W8.jpg",
+        "width": 1480
+      },
+      {
+        "height": 370,
+        "media_key": "3_1551737849531465728",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FYjhWknaAAA71Zt.jpg",
+        "width": 497
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1551732560920981504",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FYjcivAaMAAHh-5.jpg",
+        "width": 2048
       },
       {
         "height": 415,
@@ -1611,11 +1662,11 @@
         "width": 640
       },
       {
-        "height": 550,
-        "media_key": "3_1551719038845612032",
+        "height": 4096,
+        "media_key": "3_1551723834549538816",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/FYjQPpWacAA5Dl_.jpg",
-        "width": 550
+        "url": "https://pbs.twimg.com/media/FYjUmyvVEAAvwSi.jpg",
+        "width": 2925
       },
       {
         "height": 550,
@@ -1632,18 +1683,25 @@
         "width": 550
       },
       {
-        "height": 2048,
-        "media_key": "3_1551717265422241792",
+        "height": 767,
+        "media_key": "3_1551669181795381248",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/FYjOoa1VUAAZ5-x.jpg",
-        "width": 1245
+        "url": "https://pbs.twimg.com/media/FYii5lXVsAATNnW.jpg",
+        "width": 1080
       },
       {
-        "height": 574,
-        "media_key": "3_1551716396458881024",
+        "height": 360,
+        "media_key": "3_1413321688142336000",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/FYjN11sUsAA6465.jpg",
-        "width": 850
+        "url": "https://pbs.twimg.com/media/E50gllcUUAAVptV.jpg",
+        "width": 540
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1551645969120661504",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FYiNybaakAAEpSg.jpg",
+        "width": 2705
       },
       {
         "height": 3417,
@@ -1653,13 +1711,6 @@
         "width": 4096
       },
       {
-        "height": 897,
-        "media_key": "3_1464924499183554562",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FFR1EgyaUAI_S4T.jpg",
-        "width": 650
-      },
-      {
         "height": 867,
         "media_key": "3_1464924553441067012",
         "type": "photo",
@@ -1667,18 +1718,25 @@
         "width": 650
       },
       {
-        "height": 1324,
-        "media_key": "3_1551603951006810113",
+        "height": 2437,
+        "media_key": "3_1551597127385563136",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/FYhnkpvagAEtakd.jpg",
-        "width": 1270
+        "url": "https://pbs.twimg.com/media/FYhhXdxVQAAW-b2.jpg",
+        "width": 4031
       },
       {
-        "height": 2626,
-        "media_key": "3_1551597127406522369",
+        "height": 1705,
+        "media_key": "3_1551597078320582656",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/FYhhXd2VEAEcDVP.jpg",
-        "width": 4031
+        "url": "https://pbs.twimg.com/media/FYhhUm_VEAAkvMt.jpg",
+        "width": 2048
+      },
+      {
+        "height": 768,
+        "media_key": "3_1551594931667750912",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FYhfXqFaUAANAa7.jpg",
+        "width": 661
       },
       {
         "height": 3096,
@@ -1688,67 +1746,67 @@
         "width": 4128
       },
       {
-        "height": 1677,
-        "media_key": "3_1551590706799853568",
+        "height": 1431,
+        "media_key": "3_1551593479897489408",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/FYhbhvOaQAAtz3C.jpg",
-        "width": 2048
-      },
-      {
-        "height": 1536,
-        "media_key": "3_1551589235286687744",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FYhaMFaVQAAIkdO.jpg",
+        "url": "https://pbs.twimg.com/media/FYheDJ0aIAA_aYd.jpg",
         "width": 2048
       },
       {
         "height": 2048,
-        "media_key": "3_1551587564510855168",
+        "media_key": "3_1551585593095700480",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/FYhYq1SVQAAUGbZ.jpg",
+        "url": "https://pbs.twimg.com/media/FYhW4FMVQAA57hZ.jpg",
         "width": 1536
       },
       {
         "height": 2048,
-        "media_key": "3_1551586272266702848",
+        "media_key": "3_1551585593150255104",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/FYhXfnTUUAAEei7.jpg",
+        "url": "https://pbs.twimg.com/media/FYhW4FZVsAAMiv8.jpg",
         "width": 1536
       },
       {
-        "height": 2883,
-        "media_key": "3_1551582049487978497",
+        "height": 3015,
+        "media_key": "3_1551582092114669569",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/FYhTp0OagAE0BWz.jpg",
-        "width": 3844
-      },
-      {
-        "height": 2880,
-        "media_key": "3_1551582072317550592",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FYhTrJRaIAATP2-.jpg",
-        "width": 3840
+        "url": "https://pbs.twimg.com/media/FYhTsTBaMAEEhq4.jpg",
+        "width": 4020
       },
       {
         "height": 2048,
-        "media_key": "3_1551579252013027328",
+        "media_key": "3_1551579644213620736",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/FYhRG-0aUAAQiUm.jpg",
-        "width": 1536
+        "url": "https://pbs.twimg.com/media/FYhRdz4UcAABhOp.jpg",
+        "width": 1606
       },
       {
-        "height": 4000,
-        "media_key": "3_1551576683521589249",
+        "height": 1048,
+        "media_key": "3_1551579335093809152",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/FYhOxecVQAEhGAl.jpg",
-        "width": 3000
+        "url": "https://pbs.twimg.com/media/FYhRL0UacAAOk2R.jpg",
+        "width": 2044
       },
       {
-        "height": 895,
-        "media_key": "3_1451017194062561280",
+        "height": 2850,
+        "media_key": "3_1551570086301171712",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/FCMMcz8VQAACgWr.jpg",
-        "width": 1200
+        "url": "https://pbs.twimg.com/media/FYhIxd4agAAUAOy.jpg",
+        "width": 3800
+      },
+      {
+        "height": 3024,
+        "media_key": "3_1551570122565099520",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FYhIzk-aIAA6Oaj.jpg",
+        "width": 4032
+      },
+      {
+        "height": 2841,
+        "media_key": "3_1551570157906296837",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FYhI1ooaAAUbqaT.jpg",
+        "width": 3788
       },
       {
         "height": 2949,
@@ -1773,10 +1831,45 @@
       },
       {
         "height": 2048,
+        "media_key": "3_1551567337794351105",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FYhGRe5UsAE52cM.jpg",
+        "width": 1882
+      },
+      {
+        "height": 2048,
         "media_key": "3_1551566640739151872",
         "type": "photo",
         "url": "https://pbs.twimg.com/media/FYhFo6KacAAstMm.jpg",
         "width": 1696
+      },
+      {
+        "height": 800,
+        "media_key": "3_1551566254225653760",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FYhFSaSagAAPNkY.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1686,
+        "media_key": "3_1551563188810153986",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FYhCf-uaAAIRcs0.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1551563188793413632",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FYhCf-qakAAxfK8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 504,
+        "media_key": "3_838039362822520833",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/C6FQXEDUwAEDsQy.jpg",
+        "width": 460
       },
       {
         "height": 841,
@@ -2008,62 +2101,6 @@
         "type": "photo",
         "url": "https://pbs.twimg.com/media/FYgrA0GacAEdNGf.jpg",
         "width": 1338
-      },
-      {
-        "height": 1704,
-        "media_key": "3_1551537191851270145",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FYgq2wgaIAE0u-x.jpg",
-        "width": 2048
-      },
-      {
-        "height": 2048,
-        "media_key": "3_1551536327782715392",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FYgqEdmaUAAWGpo.jpg",
-        "width": 946
-      },
-      {
-        "height": 1536,
-        "media_key": "3_1551535433620008960",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FYgpQalaMAAzSHp.jpg",
-        "width": 2048
-      },
-      {
-        "height": 2048,
-        "media_key": "3_1551533888711053313",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FYgn2fWaUAEgUrj.jpg",
-        "width": 1536
-      },
-      {
-        "height": 1080,
-        "media_key": "3_1551532619221069824",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FYgmsmIacAAqPev.jpg",
-        "width": 1440
-      },
-      {
-        "height": 878,
-        "media_key": "3_1551532201602191360",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FYgmUSYUEAAhTQA.jpg",
-        "width": 2048
-      },
-      {
-        "height": 1536,
-        "media_key": "3_1551529953367556096",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FYgkRbDaAAAuPyN.jpg",
-        "width": 2048
-      },
-      {
-        "height": 1779,
-        "media_key": "3_1551529959252201472",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FYgkRw-akAArD-R.jpg",
-        "width": 2048
       }
     ],
     "tweets": [
@@ -2292,7 +2329,7 @@
         },
         "id": "1551681834009776129",
         "public_metrics": {
-          "like_count": 80,
+          "like_count": 85,
           "quote_count": 0,
           "reply_count": 2,
           "retweet_count": 12
@@ -2429,7 +2466,7 @@
         },
         "id": "1551550174073262080",
         "public_metrics": {
-          "like_count": 116,
+          "like_count": 117,
           "quote_count": 0,
           "reply_count": 1,
           "retweet_count": 4
@@ -2613,9 +2650,9 @@
     ]
   },
   "meta": {
-    "newest_id": "1551777749198524417",
-    "next_token": "b26v89c19zqg8o3fpz5kjior09h9yrzuessd1e1zxdabh",
-    "oldest_id": "1551529962502787072",
+    "newest_id": "1551794949703626753",
+    "next_token": "b26v89c19zqg8o3fpz5kjip1pmbw13n98bjtlotaxh6kd",
+    "oldest_id": "1551537375511465984",
     "result_count": 100
   }
 }
