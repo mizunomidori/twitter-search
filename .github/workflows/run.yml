@@ -39,30 +39,30 @@ jobs:
           git commit -m "Github Actions (SHA ${GITHUB_SHA})"
           git push origin main
 
-      - name: Set tag_version
-        id: tag_version
-        uses: mathieudutour/github-tag-action@v6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          default_bump: "minor"
+      # - name: Set tag_version
+      #   id: tag_version
+      #   uses: mathieudutour/github-tag-action@v6.0
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     default_bump: "minor"
 
-      - name: create release
-        id: create_release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
-        with:
-          tag_name: ${{ steps.tag_version.outputs.new_tag }}
-          release_name: Release ${{ steps.tag_version.outputs.new_tag }}
-          draft: false
-          prerelease: false
+      # - name: create release
+      #   id: create_release
+      #   uses: actions/create-release@v1
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+      #   with:
+      #     tag_name: ${{ steps.tag_version.outputs.new_tag }}
+      #     release_name: Release ${{ steps.tag_version.outputs.new_tag }}
+      #     draft: false
+      #     prerelease: false
 
-      - name: Upload Release Asset
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./tweets.json
-          asset_name: tweets.json
-          asset_content_type: application/json
+      # - name: Upload Release Asset
+      #   uses: actions/upload-release-asset@v1
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #   with:
+      #     upload_url: ${{ steps.create_release.outputs.upload_url }}
+      #     asset_path: ./tweets.json
+      #     asset_name: tweets.json
+      #     asset_content_type: application/json
