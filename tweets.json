@@ -3,6 +3,69 @@
     {
       "attachments": {
         "media_keys": [
+          "3_1587518829898649600"
+        ]
+      },
+      "created_at": "2022-11-01T19:03:54.000Z",
+      "edit_history_tweet_ids": [
+        "1587520826156683264"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 77,
+            "start": 71,
+            "tag": "絵描きの輪"
+          },
+          {
+            "end": 86,
+            "start": 78,
+            "tag": "フォロバ100"
+          },
+          {
+            "end": 90,
+            "start": 87,
+            "tag": "油絵"
+          },
+          {
+            "end": 100,
+            "start": 91,
+            "tag": "フォロバ1000"
+          },
+          {
+            "end": 113,
+            "start": 101,
+            "tag": "絵描きさんと繋がりたい"
+          },
+          {
+            "end": 120,
+            "start": 114,
+            "tag": "モデル募集"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.twitter.com/FhBaj8TTh9",
+            "end": 144,
+            "expanded_url": "https://twitter.com/hamatti1009/status/1587520826156683264/photo/1",
+            "media_key": "3_1587518829898649600",
+            "start": 121,
+            "url": "https://t.co/FhBaj8TTh9"
+          }
+        ]
+      },
+      "id": "1587520826156683264",
+      "public_metrics": {
+        "like_count": 11,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2
+      },
+      "text": "女の子を油絵の具で描きました😃\n\nブラウンやホワイトを使いながら明暗を付けていきました🖼️\n\nムラが残るような背景をつくっていきましたよ😃\n\n#絵描きの輪 #フォロバ100 #油絵 #フォロバ1000 #絵描きさんと繋がりたい #モデル募集 https://t.co/FhBaj8TTh9"
+    },
+    {
+      "attachments": {
+        "media_keys": [
           "3_1587445873406922752"
         ]
       },
@@ -11,15 +74,6 @@
         "1587447393263362049"
       ],
       "entities": {
-        "annotations": [
-          {
-            "end": 3,
-            "normalized_text": "悠歌さん",
-            "probability": 0.6437,
-            "start": 0,
-            "type": "Person"
-          }
-        ],
         "hashtags": [
           {
             "end": 39,
@@ -89,7 +143,7 @@
       },
       "id": "1587447018976268288",
       "public_metrics": {
-        "like_count": 20,
+        "like_count": 24,
         "quote_count": 0,
         "reply_count": 3,
         "retweet_count": 1
@@ -138,7 +192,7 @@
       },
       "id": "1587446299556999168",
       "public_metrics": {
-        "like_count": 36,
+        "like_count": 44,
         "quote_count": 0,
         "reply_count": 1,
         "retweet_count": 6
@@ -159,6 +213,15 @@
         "1587440630191763457"
       ],
       "entities": {
+        "annotations": [
+          {
+            "end": 38,
+            "normalized_text": "ドイツ",
+            "probability": 0.4097,
+            "start": 36,
+            "type": "Place"
+          }
+        ],
         "urls": [
           {
             "display_url": "pic.twitter.com/0PmXnWyAdX",
@@ -196,7 +259,7 @@
       },
       "id": "1587440630191763457",
       "public_metrics": {
-        "like_count": 16,
+        "like_count": 17,
         "quote_count": 0,
         "reply_count": 1,
         "retweet_count": 1
@@ -234,7 +297,7 @@
       },
       "id": "1587439413910335488",
       "public_metrics": {
-        "like_count": 14,
+        "like_count": 16,
         "quote_count": 0,
         "reply_count": 0,
         "retweet_count": 1
@@ -292,7 +355,7 @@
       },
       "id": "1587435040014671872",
       "public_metrics": {
-        "like_count": 58,
+        "like_count": 61,
         "quote_count": 0,
         "reply_count": 0,
         "retweet_count": 5
@@ -323,10 +386,10 @@
       },
       "id": "1587426934203764736",
       "public_metrics": {
-        "like_count": 11,
+        "like_count": 15,
         "quote_count": 0,
         "reply_count": 1,
-        "retweet_count": 0
+        "retweet_count": 1
       },
       "text": "今週金曜からの「グリムの世界展」。\n北見隆先生が教授のされてる大学の講師＆卒業生や生徒の方々、\nその他招待作家メンバーで開催します。\n私もご招待を受け参加させて頂きます。\n〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜\n（１）スノーホワイト／SM 油彩\n（２）ハーメルンの笛吹き男／SM 油彩 https://t.co/yzOwqHcGcf"
     },
@@ -492,7 +555,7 @@
       },
       "id": "1587414156105293824",
       "public_metrics": {
-        "like_count": 12,
+        "like_count": 13,
         "quote_count": 0,
         "reply_count": 0,
         "retweet_count": 1
@@ -530,7 +593,7 @@
       },
       "id": "1587413858934657024",
       "public_metrics": {
-        "like_count": 14,
+        "like_count": 16,
         "quote_count": 0,
         "reply_count": 0,
         "retweet_count": 4
@@ -583,7 +646,7 @@
       },
       "id": "1587411755449417728",
       "public_metrics": {
-        "like_count": 25,
+        "like_count": 30,
         "quote_count": 0,
         "reply_count": 2,
         "retweet_count": 0
@@ -662,7 +725,7 @@
       },
       "id": "1587406511927529472",
       "public_metrics": {
-        "like_count": 29,
+        "like_count": 30,
         "quote_count": 0,
         "reply_count": 1,
         "retweet_count": 6
@@ -719,7 +782,7 @@
       },
       "id": "1587405247835963392",
       "public_metrics": {
-        "like_count": 91,
+        "like_count": 102,
         "quote_count": 0,
         "reply_count": 0,
         "retweet_count": 5
@@ -822,6 +885,54 @@
         "retweet_count": 4
       },
       "text": "最近急に寒くなって秋を感じる😵‍💫🍃\n今月もよろしくお願いします！！！\n#11月カレンダー  #カレンダー\n#カレンダー配布 ＃待ち受け \n#油絵 #art #illustration \n#drawing  #art #イラスト  \n#みんなで楽しむTwitter展覧会 https://t.co/xOe9vee4Ws"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1587391996767121409"
+        ]
+      },
+      "created_at": "2022-11-01T10:32:01.000Z",
+      "edit_history_tweet_ids": [
+        "1587392006514683904"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 27,
+            "start": 24,
+            "tag": "油絵"
+          },
+          {
+            "end": 40,
+            "start": 28,
+            "tag": "oilpainting"
+          },
+          {
+            "end": 45,
+            "start": 41,
+            "tag": "art"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.twitter.com/iBuAHFJ3Jf",
+            "end": 69,
+            "expanded_url": "https://twitter.com/_MK_maki_gurolt/status/1587392006514683904/photo/1",
+            "media_key": "3_1587391996767121409",
+            "start": 46,
+            "url": "https://t.co/iBuAHFJ3Jf"
+          }
+        ]
+      },
+      "id": "1587392006514683904",
+      "public_metrics": {
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "多分バックを変えますが、とりあえず一旦乾かす。\n#油絵 #oilpainting #art https://t.co/iBuAHFJ3Jf"
     },
     {
       "attachments": {
@@ -1262,7 +1373,7 @@
       },
       "id": "1587377696123760640",
       "public_metrics": {
-        "like_count": 11,
+        "like_count": 13,
         "quote_count": 0,
         "reply_count": 2,
         "retweet_count": 0
@@ -1293,7 +1404,7 @@
       },
       "id": "1587375382919282688",
       "public_metrics": {
-        "like_count": 109,
+        "like_count": 117,
         "quote_count": 0,
         "reply_count": 2,
         "retweet_count": 10
@@ -1522,382 +1633,23 @@
       },
       "id": "1587370371954741248",
       "public_metrics": {
-        "like_count": 32,
+        "like_count": 34,
         "quote_count": 0,
         "reply_count": 1,
         "retweet_count": 5
       },
       "text": "1926年、\nミモザにレースショールに\nレースの扇子にオペラグラスの\n美しい絵画。油彩、キャンバス。\n43×35cm https://t.co/JjQpS5uKgf"
-    },
-    {
-      "attachments": {
-        "media_keys": [
-          "3_1587370198725976064"
-        ]
-      },
-      "created_at": "2022-11-01T09:05:23.000Z",
-      "edit_history_tweet_ids": [
-        "1587370203377471490"
-      ],
-      "entities": {
-        "annotations": [
-          {
-            "end": 8,
-            "normalized_text": "栃木県",
-            "probability": 0.7843,
-            "start": 6,
-            "type": "Place"
-          }
-        ],
-        "hashtags": [
-          {
-            "end": 45,
-            "start": 35,
-            "tag": "photoshop"
-          },
-          {
-            "end": 52,
-            "start": 46,
-            "tag": "adobe"
-          },
-          {
-            "end": 57,
-            "start": 53,
-            "tag": "art"
-          },
-          {
-            "end": 62,
-            "start": 58,
-            "tag": "アート"
-          },
-          {
-            "end": 65,
-            "start": 63,
-            "tag": "絵"
-          },
-          {
-            "end": 69,
-            "start": 66,
-            "tag": "絵画"
-          },
-          {
-            "end": 73,
-            "start": 70,
-            "tag": "水彩"
-          },
-          {
-            "end": 77,
-            "start": 74,
-            "tag": "油絵"
-          },
-          {
-            "end": 96,
-            "start": 78,
-            "tag": "みんなで楽しむTwitter展覧会"
-          },
-          {
-            "end": 105,
-            "start": 97,
-            "tag": "drawing"
-          },
-          {
-            "end": 119,
-            "start": 106,
-            "tag": "illustration"
-          },
-          {
-            "end": 132,
-            "start": 120,
-            "tag": "oilpainting"
-          },
-          {
-            "end": 144,
-            "start": 133,
-            "tag": "watercolor"
-          },
-          {
-            "end": 157,
-            "start": 145,
-            "tag": "ゲーム好きと繋がりたい"
-          },
-          {
-            "end": 171,
-            "start": 158,
-            "tag": "写真好きな人と繋がりたい"
-          },
-          {
-            "end": 176,
-            "start": 172,
-            "tag": "EOS"
-          },
-          {
-            "end": 183,
-            "start": 177,
-            "tag": "canon"
-          },
-          {
-            "end": 189,
-            "start": 184,
-            "tag": "EOSR"
-          },
-          {
-            "end": 196,
-            "start": 190,
-            "tag": "EOSR6"
-          }
-        ],
-        "urls": [
-          {
-            "display_url": "pic.twitter.com/6eMOmBV0C3",
-            "end": 220,
-            "expanded_url": "https://twitter.com/wolfgung_game/status/1587370203377471490/photo/1",
-            "media_key": "3_1587370198725976064",
-            "start": 197,
-            "url": "https://t.co/6eMOmBV0C3"
-          }
-        ]
-      },
-      "id": "1587370203377471490",
-      "public_metrics": {
-        "like_count": 17,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 9
-      },
-      "text": "自転車一列\n栃木県モビリティリゾートもてぎ（旧ツインリンクもてぎ）\n\n#photoshop #adobe #art #アート #絵 #絵画 #水彩 #油絵 #みんなで楽しむTwitter展覧会 #drawing #illustration #oilpainting #watercolor #ゲーム好きと繋がりたい #写真好きな人と繋がりたい #EOS #canon #EOSR #EOSR6 https://t.co/6eMOmBV0C3"
-    },
-    {
-      "attachments": {
-        "media_keys": [
-          "3_1587370044904075264"
-        ]
-      },
-      "created_at": "2022-11-01T09:04:46.000Z",
-      "edit_history_tweet_ids": [
-        "1587370048699920385"
-      ],
-      "entities": {
-        "urls": [
-          {
-            "display_url": "pic.twitter.com/wguqnZn2IT",
-            "end": 67,
-            "expanded_url": "https://twitter.com/okeat0190/status/1587370048699920385/photo/1",
-            "media_key": "3_1587370044904075264",
-            "start": 44,
-            "url": "https://t.co/wguqnZn2IT"
-          }
-        ]
-      },
-      "id": "1587370048699920385",
-      "public_metrics": {
-        "like_count": 12,
-        "quote_count": 0,
-        "reply_count": 5,
-        "retweet_count": 0
-      },
-      "text": "来週、美術部OBの展示会\n1年ぶりに油絵描いてます\n間に合うのか、間に合うのか私... https://t.co/wguqnZn2IT"
-    },
-    {
-      "attachments": {
-        "media_keys": [
-          "3_1587369521782067200",
-          "3_1587369521735954433"
-        ]
-      },
-      "created_at": "2022-11-01T09:02:41.000Z",
-      "edit_history_tweet_ids": [
-        "1587369526215467009"
-      ],
-      "entities": {
-        "annotations": [
-          {
-            "end": 20,
-            "normalized_text": "佐藤千亜季　個展",
-            "probability": 0.3385,
-            "start": 13,
-            "type": "Person"
-          },
-          {
-            "end": 32,
-            "normalized_text": "嘘みたいなこの世界で",
-            "probability": 0.6627,
-            "start": 23,
-            "type": "Other"
-          },
-          {
-            "end": 129,
-            "normalized_text": "武蔵野市吉祥寺本町1-37-7-101 吉祥寺",
-            "probability": 0.5194,
-            "start": 106,
-            "type": "Place"
-          },
-          {
-            "end": 143,
-            "normalized_text": "IROさん",
-            "probability": 0.4547,
-            "start": 139,
-            "type": "Person"
-          }
-        ],
-        "mentions": [
-          {
-            "end": 103,
-            "id": "1657498927",
-            "start": 91,
-            "username": "gallery_iro"
-          }
-        ],
-        "urls": [
-          {
-            "description": "2022.12.8 thu - 11 sun12:00 - 19:00（最終日は17:00まで）[会場:Room1]人の知覚の不確かさに興味を持ち、制作をしています。わたしたちが世界をどう認識するかはわたしたちそれぞれの主観に委ねられていて、確かなものなど何もなく、すべては曖昧の中に漂っているという...",
-            "display_url": "1-6.jp/chiakisato",
-            "end": 196,
-            "expanded_url": "http://1-6.jp/chiakisato",
-            "images": [
-              {
-                "height": 1484,
-                "url": "https://pbs.twimg.com/news_img/1587369535971393536/FIB_OH_n?format=jpg&name=orig",
-                "width": 1000
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/1587369535971393536/FIB_OH_n?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 173,
-            "status": 200,
-            "title": "佐藤千亜季 個展 「嘘みたいなこの世界で」",
-            "unwound_url": "https://1-6.jp/chiakisato",
-            "url": "https://t.co/dUEv2Lkg2h"
-          },
-          {
-            "display_url": "pic.twitter.com/drYLarMlc3",
-            "end": 220,
-            "expanded_url": "https://twitter.com/chiaki_1988_s/status/1587369526215467009/photo/1",
-            "media_key": "3_1587369521782067200",
-            "start": 197,
-            "url": "https://t.co/drYLarMlc3"
-          },
-          {
-            "display_url": "pic.twitter.com/drYLarMlc3",
-            "end": 220,
-            "expanded_url": "https://twitter.com/chiaki_1988_s/status/1587369526215467009/photo/1",
-            "media_key": "3_1587369521735954433",
-            "start": 197,
-            "url": "https://t.co/drYLarMlc3"
-          }
-        ]
-      },
-      "id": "1587369526215467009",
-      "public_metrics": {
-        "like_count": 10,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 2
-      },
-      "text": "【個展のお知らせ】🎨\n\n佐藤千亜季　個展\n「嘘みたいなこの世界で」\n\n2022.12.8（木）-11（日）\n12:00-19:00（最終日17:00まで）\n\nGALLERY IRO @gallery_iro \n武蔵野市吉祥寺本町1-37-7-101\n\n吉祥寺のGALLERY IROさんにて、初の個展をします！\n油絵作品を20点ほど展示します。\nhttps://t.co/dUEv2Lkg2h https://t.co/drYLarMlc3"
-    },
-    {
-      "attachments": {
-        "media_keys": [
-          "3_1587369491205586944",
-          "3_1587369501267750912"
-        ]
-      },
-      "created_at": "2022-11-01T09:02:37.000Z",
-      "edit_history_tweet_ids": [
-        "1587369510197407747"
-      ],
-      "entities": {
-        "urls": [
-          {
-            "display_url": "pic.twitter.com/Kz0XE4SG0M",
-            "end": 50,
-            "expanded_url": "https://twitter.com/amane_painter/status/1587369510197407747/photo/1",
-            "media_key": "3_1587369491205586944",
-            "start": 27,
-            "url": "https://t.co/Kz0XE4SG0M"
-          },
-          {
-            "display_url": "pic.twitter.com/Kz0XE4SG0M",
-            "end": 50,
-            "expanded_url": "https://twitter.com/amane_painter/status/1587369510197407747/photo/1",
-            "media_key": "3_1587369501267750912",
-            "start": 27,
-            "url": "https://t.co/Kz0XE4SG0M"
-          }
-        ]
-      },
-      "id": "1587369510197407747",
-      "public_metrics": {
-        "like_count": 35,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 3
-      },
-      "text": "最近完成した油絵作品。\nタイトルは「うみかぜ」です。 https://t.co/Kz0XE4SG0M"
-    },
-    {
-      "attachments": {
-        "media_keys": [
-          "3_1587309592408571904"
-        ]
-      },
-      "created_at": "2022-11-01T09:00:01.000Z",
-      "edit_history_tweet_ids": [
-        "1587368853872353280"
-      ],
-      "entities": {
-        "annotations": [
-          {
-            "end": 33,
-            "normalized_text": "銀座",
-            "probability": 0.8963,
-            "start": 32,
-            "type": "Place"
-          }
-        ],
-        "hashtags": [
-          {
-            "end": 89,
-            "start": 81,
-            "tag": "gallery"
-          },
-          {
-            "end": 93,
-            "start": 90,
-            "tag": "油絵"
-          },
-          {
-            "end": 100,
-            "start": 94,
-            "tag": "ギャラリー"
-          }
-        ],
-        "urls": [
-          {
-            "display_url": "pic.twitter.com/AyYnSKAEG3",
-            "end": 124,
-            "expanded_url": "https://twitter.com/ginza658/status/1587368853872353280/photo/1",
-            "media_key": "3_1587309592408571904",
-            "start": 101,
-            "url": "https://t.co/AyYnSKAEG3"
-          }
-        ]
-      },
-      "id": "1587368853872353280",
-      "public_metrics": {
-        "like_count": 13,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 2
-      },
-      "text": "ぎんざ658画廊では個性豊かな現代アート展を開催しております。\n銀座へお越しの際は是非ご来廊くださいませ。\n駅から徒歩４分の大きな窓ガラスが特徴的な画廊です。\n\n#gallery #油絵 #ギャラリー https://t.co/AyYnSKAEG3"
     }
   ],
   "includes": {
     "media": [
+      {
+        "height": 3084,
+        "media_key": "3_1587518829898649600",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fgf_9vpaUAAsN3a.jpg",
+        "width": 2016
+      },
       {
         "height": 1367,
         "media_key": "3_1587457949458628609",
@@ -1997,6 +1749,13 @@
         "width": 3840
       },
       {
+        "height": 3564,
+        "media_key": "3_1587389613739364352",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FgeKcX8UUAAQL1S.jpg",
+        "width": 2655
+      },
+      {
         "height": 2264,
         "media_key": "3_1587413444877520896",
         "type": "photo",
@@ -2081,6 +1840,13 @@
         "width": 2250
       },
       {
+        "height": 1124,
+        "media_key": "3_1587392824021917696",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FgeNXPLUoAA5L5g.jpg",
+        "width": 2000
+      },
+      {
         "height": 1125,
         "media_key": "3_1587392879776759808",
         "type": "photo",
@@ -2095,11 +1861,25 @@
         "width": 650
       },
       {
+        "height": 1058,
+        "media_key": "3_1587392200861548546",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FgeMy9uUAAItP5l.jpg",
+        "width": 887
+      },
+      {
         "height": 2048,
         "media_key": "3_1587391996767121409",
         "type": "photo",
         "url": "https://pbs.twimg.com/media/FgeMnFaaMAEGSZr.jpg",
         "width": 1532
+      },
+      {
+        "height": 750,
+        "media_key": "3_1587391530897063936",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FgeML96VQAAvyPN.jpg",
+        "width": 812
       },
       {
         "height": 704,
@@ -2344,79 +2124,88 @@
         "type": "photo",
         "url": "https://pbs.twimg.com/media/Fgd450MXgAElDQk.jpg",
         "width": 749
-      },
-      {
-        "height": 683,
-        "media_key": "3_1587370198725976064",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fgd4yRYaYAAjq4c.jpg",
-        "width": 1024
-      },
-      {
-        "height": 2048,
-        "media_key": "3_1587370044904075264",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fgd4pUWacAA51Od.jpg",
-        "width": 1536
-      },
-      {
-        "height": 2048,
-        "media_key": "3_1587369576584863750",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fgd4ODuaYAY3Cc6.jpg",
-        "width": 1370
-      },
-      {
-        "height": 1484,
-        "media_key": "3_1587369521782067200",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fgd4K3kaEAAzem4.jpg",
-        "width": 1000
-      },
-      {
-        "height": 1484,
-        "media_key": "3_1587369521735954433",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fgd4K3ZacAEbdn1.jpg",
-        "width": 1000
-      },
-      {
-        "height": 1504,
-        "media_key": "3_1587369491205586944",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fgd4JFqaAAAwhVy.jpg",
-        "width": 2256
-      },
-      {
-        "height": 1504,
-        "media_key": "3_1587369501267750912",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fgd4JrJacAAwXQy.jpg",
-        "width": 2256
-      },
-      {
-        "height": 1080,
-        "media_key": "3_1587368861770211328",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fgd3kc1UYAAWZRO.jpg",
-        "width": 1080
-      },
-      {
-        "height": 1456,
-        "media_key": "3_1587309592408571904",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FgdBqhQVQAAvhhI.jpg",
-        "width": 1342
-      },
-      {
-        "height": 1536,
-        "media_key": "3_1587365982871646210",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fgd084GacAIBJyr.jpg",
-        "width": 2048
       }
     ],
     "tweets": [
+      {
+        "created_at": "2022-10-31T06:24:57.000Z",
+        "edit_history_tweet_ids": [
+          "1586967441132769280"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "I'm Only Sleeping",
+              "probability": 0.9257,
+              "start": 15,
+              "type": "Other"
+            },
+            {
+              "end": 47,
+              "normalized_text": "Em Cooper",
+              "probability": 0.8117,
+              "start": 39,
+              "type": "Person"
+            },
+            {
+              "end": 125,
+              "normalized_text": "YELLOW SUBMARINE",
+              "probability": 0.8932,
+              "start": 110,
+              "type": "Other"
+            },
+            {
+              "end": 157,
+              "normalized_text": "Lucy in the Sky with Diamonds",
+              "probability": 0.9287,
+              "start": 129,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 59,
+              "id": "265565828",
+              "start": 51,
+              "username": "emscoop"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Music video by The Beatles performing I'm Only Sleeping. © 2022 Calderstone Productions Limited (a division of Universal Music Group)http://vevo.ly/GejBl2",
+              "display_url": "youtu.be/5XwXliCK19Y",
+              "end": 198,
+              "expanded_url": "https://youtu.be/5XwXliCK19Y",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1586756164963926016/JHhnMjvu?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1586756164963926016/JHhnMjvu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 175,
+              "status": 200,
+              "title": "The Beatles - I'm Only Sleeping",
+              "unwound_url": "https://www.youtube.com/watch?v=5XwXliCK19Y&feature=youtu.be",
+              "url": "https://t.co/eei9ryXGiH"
+            }
+          ]
+        },
+        "id": "1586967441132769280",
+        "public_metrics": {
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "11/2 1:00公開予定の「I'm Only Sleeping」公式映像は\nEm Cooperさん @emscoop の作品\nアニメーションのコマ全てを油絵で描く独特のスタイルで、夢と覚醒の境界を描いた。\nアニメ映画『YELLOW SUBMARINE』の「Lucy in the Sky with Diamonds」で使われた手法を連想させます。\nhttps://t.co/eei9ryXGiH"
+      },
       {
         "created_at": "2022-11-01T14:13:11.000Z",
         "edit_history_tweet_ids": [
@@ -2451,7 +2240,7 @@
         },
         "id": "1587447665750482946",
         "public_metrics": {
-          "like_count": 1,
+          "like_count": 2,
           "quote_count": 0,
           "reply_count": 18,
           "retweet_count": 0
@@ -2495,7 +2284,7 @@
         ],
         "id": "1587457935898071040",
         "public_metrics": {
-          "like_count": 2,
+          "like_count": 3,
           "quote_count": 0,
           "reply_count": 1,
           "retweet_count": 1
@@ -2548,7 +2337,7 @@
         },
         "id": "1587107054610575361",
         "public_metrics": {
-          "like_count": 14,
+          "like_count": 15,
           "quote_count": 0,
           "reply_count": 1,
           "retweet_count": 5
@@ -2633,15 +2422,6 @@
           "1587203219880484864"
         ],
         "entities": {
-          "annotations": [
-            {
-              "end": 10,
-              "normalized_text": "山城有未",
-              "probability": 0.3094,
-              "start": 7,
-              "type": "Person"
-            }
-          ],
           "urls": [
             {
               "description": "東京銀座にあります、絵画や工芸など古典から現代アートまで取り扱うギャラリーです。注目の若手作家から巨匠まで、企画画廊を展開しております。また、絵画をインテリアに取り込んだアートコーディネートやアドバイス、買取・査定も行っております。ぜひギャラリーに足をお運びください。",
@@ -2678,19 +2458,19 @@
         },
         "id": "1587203219880484864",
         "public_metrics": {
-          "like_count": 93,
+          "like_count": 97,
           "quote_count": 1,
-          "reply_count": 0,
-          "retweet_count": 15
+          "reply_count": 1,
+          "retweet_count": 16
         },
         "text": "【まちゅまゆ＊山城有未】\nカレンダー展\n2022.11.18(金)-11.25(金)\n11〜19時\n※土日祝は17時まで／会期中無休\n油彩小作品を各13点🐝\n◈各作家ｶﾚﾝﾀﾞｰ販売\nお問合せ等は靖山画廊まで\nhttps://t.co/dRf2CIfD2k\n※HPには近日UP https://t.co/KmG7Z0NWQ1"
       }
     ]
   },
   "meta": {
-    "newest_id": "1587475923234062336",
-    "next_token": "b26v89c19zqg8o3fpzeme07qe82f5qafmlfr4hlmon3b1",
-    "oldest_id": "1587365993449676800",
-    "result_count": 98
+    "newest_id": "1587537063821430789",
+    "next_token": "b26v89c19zqg8o3fpzeme080z11pgfu139cnpt036bmgt",
+    "oldest_id": "1587370371954741248",
+    "result_count": 99
   }
 }
