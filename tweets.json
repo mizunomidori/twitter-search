@@ -3,6 +3,122 @@
     {
       "attachments": {
         "media_keys": [
+          "3_1602381799174590464"
+        ]
+      },
+      "created_at": "2022-12-12T19:19:26.000Z",
+      "edit_history_tweet_ids": [
+        "1602382639314653184"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 103,
+            "start": 97,
+            "tag": "絵描きの輪"
+          },
+          {
+            "end": 112,
+            "start": 104,
+            "tag": "フォロバ100"
+          },
+          {
+            "end": 116,
+            "start": 113,
+            "tag": "油絵"
+          },
+          {
+            "end": 123,
+            "start": 117,
+            "tag": "モデル募集"
+          },
+          {
+            "end": 136,
+            "start": 124,
+            "tag": "絵描きさんと繋がりたい"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.twitter.com/TuxiJ28Zhx",
+            "end": 160,
+            "expanded_url": "https://twitter.com/hamatti1009/status/1602382639314653184/photo/1",
+            "media_key": "3_1602381799174590464",
+            "start": 137,
+            "url": "https://t.co/TuxiJ28Zhx"
+          }
+        ]
+      },
+      "id": "1602382639314653184",
+      "public_metrics": {
+        "like_count": 14,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "text": "いつも「いいね」「RT」ありがとうございます！\n\n静物を油絵の具で描きました😃\n\nグラス、カップ、みかんがモチーフです。\n\nわたしゃ、大きめの筆で形を探るアラプリマが好きなのかもしれません。\n\n#絵描きの輪 #フォロバ100 #油絵 #モデル募集 #絵描きさんと繋がりたい https://t.co/TuxiJ28Zhx"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1602348211569819648"
+        ]
+      },
+      "created_at": "2022-12-12T17:02:39.000Z",
+      "edit_history_tweet_ids": [
+        "1602348214568759296"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 92,
+            "start": 83,
+            "tag": "散歩コースは宝箱"
+          },
+          {
+            "end": 105,
+            "start": 93,
+            "tag": "TLを花で一杯にしよう"
+          },
+          {
+            "end": 138,
+            "start": 136,
+            "tag": "菊"
+          },
+          {
+            "end": 145,
+            "start": 139,
+            "tag": "散歩コース"
+          },
+          {
+            "end": 156,
+            "start": 146,
+            "tag": "シンプルスマフォト"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.twitter.com/DZqkwMuEG0",
+            "end": 180,
+            "expanded_url": "https://twitter.com/_3gatsu_usagi_/status/1602348214568759296/photo/1",
+            "media_key": "3_1602348211569819648",
+            "start": 157,
+            "url": "https://t.co/DZqkwMuEG0"
+          }
+        ]
+      },
+      "id": "1602348214568759296",
+      "public_metrics": {
+        "like_count": 14,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "text": ".\n*12月13日(火)*\n\nお早うございます\n\n12/6📸の小菊たち\n\nたまたま\n少し暗めに撮れたのが\n油絵みたいにイイ雰囲気に🤗\n\n絵画調に見える写真も大好き\n\n#散歩コースは宝箱\n#TLを花で一杯にしよう\n\n今期いちばんの寒波の襲来予報\n暖かくしてお過ごしを…🍀\n\n#菊 #散歩コース #シンプルスマフォト https://t.co/DZqkwMuEG0"
+    },
+    {
+      "attachments": {
+        "media_keys": [
           "3_1602298732179238912"
         ]
       },
@@ -11,15 +127,6 @@
         "1602298737073983489"
       ],
       "entities": {
-        "annotations": [
-          {
-            "end": 15,
-            "normalized_text": "夕凪リフレクション",
-            "probability": 0.4213,
-            "start": 7,
-            "type": "Person"
-          }
-        ],
         "hashtags": [
           {
             "end": 31,
@@ -55,7 +162,7 @@
       },
       "id": "1602298737073983489",
       "public_metrics": {
-        "like_count": 13,
+        "like_count": 14,
         "quote_count": 0,
         "reply_count": 0,
         "retweet_count": 0
@@ -107,6 +214,29 @@
         "1602277397763850240"
       ],
       "entities": {
+        "annotations": [
+          {
+            "end": 17,
+            "normalized_text": "三越コンテンポラリーアートギャラリー",
+            "probability": 0.3962,
+            "start": 0,
+            "type": "Organization"
+          },
+          {
+            "end": 25,
+            "normalized_text": "川内理香子さん",
+            "probability": 0.5026,
+            "start": 19,
+            "type": "Person"
+          },
+          {
+            "end": 49,
+            "normalized_text": "Make yourself at home",
+            "probability": 0.803,
+            "start": 29,
+            "type": "Other"
+          }
+        ],
         "urls": [
           {
             "display_url": "pic.twitter.com/zcp4YwDygA",
@@ -175,7 +305,7 @@
       },
       "id": "1602274470781423616",
       "public_metrics": {
-        "like_count": 12,
+        "like_count": 13,
         "quote_count": 0,
         "reply_count": 3,
         "retweet_count": 0
@@ -206,7 +336,7 @@
       },
       "id": "1602274119957229570",
       "public_metrics": {
-        "like_count": 50,
+        "like_count": 55,
         "quote_count": 0,
         "reply_count": 0,
         "retweet_count": 0
@@ -289,6 +419,64 @@
     {
       "attachments": {
         "media_keys": [
+          "3_1602261211613396992",
+          "3_1602261211646943234"
+        ]
+      },
+      "created_at": "2022-12-12T11:16:59.000Z",
+      "edit_history_tweet_ids": [
+        "1602261224246628357"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 10,
+            "start": 0,
+            "tag": "アーティゾン美術館"
+          },
+          {
+            "end": 20,
+            "start": 11,
+            "tag": "パリ・オペラ座展"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.twitter.com/ax1D9hsB9i",
+            "end": 154,
+            "expanded_url": "https://twitter.com/RbJbc/status/1602261224246628357/photo/1",
+            "media_key": "3_1602261211613396992",
+            "start": 131,
+            "url": "https://t.co/ax1D9hsB9i"
+          },
+          {
+            "display_url": "pic.twitter.com/ax1D9hsB9i",
+            "end": 154,
+            "expanded_url": "https://twitter.com/RbJbc/status/1602261224246628357/photo/1",
+            "media_key": "3_1602261211646943234",
+            "start": 131,
+            "url": "https://t.co/ax1D9hsB9i"
+          }
+        ]
+      },
+      "id": "1602261224246628357",
+      "public_metrics": {
+        "like_count": 11,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1601457342012612608",
+          "type": "replied_to"
+        }
+      ],
+      "text": "#アーティゾン美術館 #パリ・オペラ座展\nオノレ・ドーミエ　『観劇』\n1856-1860年頃\n油彩・板\n国立西洋美術館\n\nテオフィル・アレクサンドル・スタンラン\n『夢（ル・レーヴ)』のポスター\n1890年\n兵庫県立芸術文化センター 薄井憲ニバレエ・コレクション https://t.co/ax1D9hsB9i"
+    },
+    {
+      "attachments": {
+        "media_keys": [
           "3_1602136819755278338",
           "3_1602137602165014529",
           "3_1602137627330854913",
@@ -357,7 +545,7 @@
       },
       "id": "1602256959671083014",
       "public_metrics": {
-        "like_count": 31,
+        "like_count": 34,
         "quote_count": 1,
         "reply_count": 0,
         "retweet_count": 3
@@ -420,7 +608,7 @@
       },
       "id": "1602254908123930624",
       "public_metrics": {
-        "like_count": 25,
+        "like_count": 26,
         "quote_count": 0,
         "reply_count": 0,
         "retweet_count": 0
@@ -475,6 +663,15 @@
         "1602250807918862337"
       ],
       "entities": {
+        "annotations": [
+          {
+            "end": 1,
+            "normalized_text": "日本",
+            "probability": 0.8109,
+            "start": 0,
+            "type": "Place"
+          }
+        ],
         "urls": [
           {
             "display_url": "pic.twitter.com/OZGWQJdxHN",
@@ -506,6 +703,15 @@
         "1602249953908518912"
       ],
       "entities": {
+        "annotations": [
+          {
+            "end": 63,
+            "normalized_text": "幸くるむ花",
+            "probability": 0.293,
+            "start": 59,
+            "type": "Other"
+          }
+        ],
         "hashtags": [
           {
             "end": 103,
@@ -546,10 +752,10 @@
       },
       "id": "1602249953908518912",
       "public_metrics": {
-        "like_count": 278,
+        "like_count": 289,
         "quote_count": 0,
         "reply_count": 2,
-        "retweet_count": 33
+        "retweet_count": 35
       },
       "text": "ミず鬼ずム団\n\nほだか作　カラー（二枚目油彩）\n\nカラーの花言葉は「華麗なる美」、\n「清浄」など。\n\n花びらの形から「幸くるむ花」として\nほだかさんはよくカラーを描きます☺\n\n#冬の創作クラスタフォロー祭り\n#いいねかRTで気になった人フォローする\n#芸術の輪 #芸術同盟 #絵描きさんと繋がりたい https://t.co/V92zzsuzh7"
     },
@@ -599,7 +805,7 @@
       },
       "id": "1602249743152791552",
       "public_metrics": {
-        "like_count": 36,
+        "like_count": 37,
         "quote_count": 2,
         "reply_count": 1,
         "retweet_count": 6
@@ -648,7 +854,7 @@
       },
       "id": "1602242716066525185",
       "public_metrics": {
-        "like_count": 31,
+        "like_count": 34,
         "quote_count": 0,
         "reply_count": 0,
         "retweet_count": 4
@@ -727,10 +933,10 @@
       },
       "id": "1602242149617115139",
       "public_metrics": {
-        "like_count": 24,
+        "like_count": 28,
         "quote_count": 0,
         "reply_count": 0,
-        "retweet_count": 1
+        "retweet_count": 5
       },
       "text": "アナログ過去絵〜。ツェレさん(油絵の女)とツェレさん(創作衣装)とマーサちゃん(ブラスワ微人外化)。この時のツェレさん比較的ツリ目っぽいですね。あと多分当時から僕はブラスワをロリだと思っている。 https://t.co/a85QtILNuz"
     },
@@ -792,7 +998,7 @@
       },
       "id": "1602238882417807360",
       "public_metrics": {
-        "like_count": 46,
+        "like_count": 47,
         "quote_count": 0,
         "reply_count": 0,
         "retweet_count": 7
@@ -842,15 +1048,6 @@
         "1602234256625139718"
       ],
       "entities": {
-        "annotations": [
-          {
-            "end": 47,
-            "normalized_text": "ゆびこ個展　 6F しょうじあ",
-            "probability": 0.2532,
-            "start": 31,
-            "type": "Place"
-          }
-        ],
         "hashtags": [
           {
             "end": 133,
@@ -919,625 +1116,63 @@
       },
       "id": "1602234256625139718",
       "public_metrics": {
-        "like_count": 11,
+        "like_count": 12,
         "quote_count": 0,
         "reply_count": 0,
         "retweet_count": 1
       },
       "text": "本日初日。\n待望の展覧会。\n始まりました！\n\n5F   おおたゆびこ個展　\n6F   しょうじあや 個展\n       あなたの嫌いなものを持っている　 \n \n2022年12月12日(月)〜12月17日(土)\n12:00~19:00 　最終日17:00まで\n\n#個展 #絵画 #画廊　#油絵,　#抽象絵画　#銀座　#artexhibition #Painting #Gallery https://t.co/yBwhKCLbt5"
-    },
-    {
-      "attachments": {
-        "media_keys": [
-          "3_1602232061485383680",
-          "3_1602232075616079872",
-          "3_1602232092045123584"
-        ]
-      },
-      "created_at": "2022-12-12T09:21:17.000Z",
-      "edit_history_tweet_ids": [
-        "1602232107937411072"
-      ],
-      "entities": {
-        "urls": [
-          {
-            "display_url": "pic.twitter.com/XLRBkLJ0bA",
-            "end": 71,
-            "expanded_url": "https://twitter.com/arisu_kirapara/status/1602232107937411072/photo/1",
-            "media_key": "3_1602232061485383680",
-            "start": 48,
-            "url": "https://t.co/XLRBkLJ0bA"
-          },
-          {
-            "display_url": "pic.twitter.com/XLRBkLJ0bA",
-            "end": 71,
-            "expanded_url": "https://twitter.com/arisu_kirapara/status/1602232107937411072/photo/1",
-            "media_key": "3_1602232075616079872",
-            "start": 48,
-            "url": "https://t.co/XLRBkLJ0bA"
-          },
-          {
-            "display_url": "pic.twitter.com/XLRBkLJ0bA",
-            "end": 71,
-            "expanded_url": "https://twitter.com/arisu_kirapara/status/1602232107937411072/photo/1",
-            "media_key": "3_1602232092045123584",
-            "start": 48,
-            "url": "https://t.co/XLRBkLJ0bA"
-          }
-        ]
-      },
-      "id": "1602232107937411072",
-      "public_metrics": {
-        "like_count": 41,
-        "quote_count": 0,
-        "reply_count": 1,
-        "retweet_count": 1
-      },
-      "text": "油絵加工めちゃくちゃ優秀なのでドールコーデする人は使ってください！！！まるで美術品の絵だよ！！ https://t.co/XLRBkLJ0bA"
-    },
-    {
-      "attachments": {
-        "media_keys": [
-          "3_1602229807969751041",
-          "3_1602229807965609984"
-        ]
-      },
-      "created_at": "2022-12-12T09:12:10.000Z",
-      "edit_history_tweet_ids": [
-        "1602229813934112768"
-      ],
-      "entities": {
-        "annotations": [
-          {
-            "end": 14,
-            "normalized_text": "池永康晟先生",
-            "probability": 0.6552,
-            "start": 9,
-            "type": "Person"
-          },
-          {
-            "end": 26,
-            "normalized_text": "山本大貴先生",
-            "probability": 0.6661,
-            "start": 21,
-            "type": "Person"
-          }
-        ],
-        "urls": [
-          {
-            "display_url": "pic.twitter.com/jjQLkbw4f9",
-            "end": 164,
-            "expanded_url": "https://twitter.com/YeqArgKmRYL1xjl/status/1602229813934112768/photo/1",
-            "media_key": "3_1602229807969751041",
-            "start": 141,
-            "url": "https://t.co/jjQLkbw4f9"
-          },
-          {
-            "display_url": "pic.twitter.com/jjQLkbw4f9",
-            "end": 164,
-            "expanded_url": "https://twitter.com/YeqArgKmRYL1xjl/status/1602229813934112768/photo/1",
-            "media_key": "3_1602229807965609984",
-            "start": 141,
-            "url": "https://t.co/jjQLkbw4f9"
-          }
-        ]
-      },
-      "id": "1602229813934112768",
-      "public_metrics": {
-        "like_count": 10,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "新生堂で日本画家の池永康晟先生と写実画家の山本大貴先生の対決展「前哨戦」を拝見しました。同じモデルの女性が日本画では凛として気品に溢れ、油絵では永遠の少女の面影を秘めたまま、それぞれの物語の中で美しく咲き誇っていました。2点のみが展示された贅沢な空間で至福のひと時を過ごしました🌹 https://t.co/jjQLkbw4f9"
-    },
-    {
-      "attachments": {
-        "media_keys": [
-          "3_1602228373001932801"
-        ]
-      },
-      "created_at": "2022-12-12T09:06:28.000Z",
-      "edit_history_tweet_ids": [
-        "1602228380207677441"
-      ],
-      "entities": {
-        "urls": [
-          {
-            "display_url": "pic.twitter.com/4vNTbIeQD9",
-            "end": 42,
-            "expanded_url": "https://twitter.com/takeuchi_yattaa/status/1602228380207677441/photo/1",
-            "media_key": "3_1602228373001932801",
-            "start": 19,
-            "url": "https://t.co/4vNTbIeQD9"
-          }
-        ]
-      },
-      "id": "1602228380207677441",
-      "public_metrics": {
-        "like_count": 279,
-        "quote_count": 2,
-        "reply_count": 0,
-        "retweet_count": 18
-      },
-      "text": "「吸い方」F100\nキャンバスに油彩 https://t.co/4vNTbIeQD9"
-    },
-    {
-      "attachments": {
-        "media_keys": [
-          "3_1602228196333670402"
-        ]
-      },
-      "created_at": "2022-12-12T09:05:45.000Z",
-      "edit_history_tweet_ids": [
-        "1602228201576484864"
-      ],
-      "entities": {
-        "annotations": [
-          {
-            "end": 5,
-            "normalized_text": "紅葉と鳥さん",
-            "probability": 0.2658,
-            "start": 0,
-            "type": "Person"
-          }
-        ],
-        "hashtags": [
-          {
-            "end": 11,
-            "start": 8,
-            "tag": "紅葉"
-          },
-          {
-            "end": 23,
-            "start": 13,
-            "tag": "photoshop"
-          },
-          {
-            "end": 30,
-            "start": 24,
-            "tag": "adobe"
-          },
-          {
-            "end": 35,
-            "start": 31,
-            "tag": "art"
-          },
-          {
-            "end": 40,
-            "start": 36,
-            "tag": "アート"
-          },
-          {
-            "end": 43,
-            "start": 41,
-            "tag": "絵"
-          },
-          {
-            "end": 47,
-            "start": 44,
-            "tag": "絵画"
-          },
-          {
-            "end": 51,
-            "start": 48,
-            "tag": "水彩"
-          },
-          {
-            "end": 55,
-            "start": 52,
-            "tag": "油絵"
-          },
-          {
-            "end": 74,
-            "start": 56,
-            "tag": "みんなで楽しむTwitter展覧会"
-          },
-          {
-            "end": 83,
-            "start": 75,
-            "tag": "drawing"
-          },
-          {
-            "end": 97,
-            "start": 84,
-            "tag": "illustration"
-          },
-          {
-            "end": 110,
-            "start": 98,
-            "tag": "oilpainting"
-          },
-          {
-            "end": 122,
-            "start": 111,
-            "tag": "watercolor"
-          },
-          {
-            "end": 135,
-            "start": 123,
-            "tag": "ゲーム好きと繋がりたい"
-          },
-          {
-            "end": 149,
-            "start": 136,
-            "tag": "写真好きな人と繋がりたい"
-          },
-          {
-            "end": 154,
-            "start": 150,
-            "tag": "EOS"
-          },
-          {
-            "end": 161,
-            "start": 155,
-            "tag": "canon"
-          },
-          {
-            "end": 167,
-            "start": 162,
-            "tag": "EOSR"
-          },
-          {
-            "end": 174,
-            "start": 168,
-            "tag": "EOSR6"
-          }
-        ],
-        "urls": [
-          {
-            "display_url": "pic.twitter.com/lBlYKlfVL5",
-            "end": 198,
-            "expanded_url": "https://twitter.com/wolfgung_game/status/1602228201576484864/photo/1",
-            "media_key": "3_1602228196333670402",
-            "start": 175,
-            "url": "https://t.co/lBlYKlfVL5"
-          }
-        ]
-      },
-      "id": "1602228201576484864",
-      "public_metrics": {
-        "like_count": 14,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 3
-      },
-      "text": "紅葉と鳥さん🐦\n#紅葉 \n#photoshop #adobe #art #アート #絵 #絵画 #水彩 #油絵 #みんなで楽しむTwitter展覧会 #drawing #illustration #oilpainting #watercolor #ゲーム好きと繋がりたい #写真好きな人と繋がりたい #EOS #canon #EOSR #EOSR6 https://t.co/lBlYKlfVL5"
-    },
-    {
-      "attachments": {
-        "media_keys": [
-          "3_1602136836423307267"
-        ]
-      },
-      "created_at": "2022-12-12T09:00:01.000Z",
-      "edit_history_tweet_ids": [
-        "1602226758115241984"
-      ],
-      "entities": {
-        "annotations": [
-          {
-            "end": 98,
-            "normalized_text": "東京メトロ有楽町線",
-            "probability": 0.6912,
-            "start": 90,
-            "type": "Other"
-          },
-          {
-            "end": 103,
-            "normalized_text": "有楽町駅",
-            "probability": 0.5048,
-            "start": 100,
-            "type": "Other"
-          },
-          {
-            "end": 118,
-            "normalized_text": "徒歩7分 東京メトロ日比谷線",
-            "probability": 0.2396,
-            "start": 105,
-            "type": "Other"
-          },
-          {
-            "end": 122,
-            "normalized_text": "銀座駅",
-            "probability": 0.3745,
-            "start": 120,
-            "type": "Other"
-          },
-          {
-            "end": 136,
-            "normalized_text": "徒歩6分 東京メトロ銀座線",
-            "probability": 0.2184,
-            "start": 124,
-            "type": "Other"
-          },
-          {
-            "end": 141,
-            "normalized_text": "丸の内線",
-            "probability": 0.4262,
-            "start": 138,
-            "type": "Other"
-          },
-          {
-            "end": 145,
-            "normalized_text": "銀座駅",
-            "probability": 0.4726,
-            "start": 143,
-            "type": "Place"
-          }
-        ],
-        "hashtags": [
-          {
-            "end": 156,
-            "start": 153,
-            "tag": "油絵"
-          }
-        ],
-        "urls": [
-          {
-            "display_url": "pic.twitter.com/uQhsxoKh97",
-            "end": 180,
-            "expanded_url": "https://twitter.com/ginza658/status/1602226758115241984/photo/1",
-            "media_key": "3_1602136836423307267",
-            "start": 157,
-            "url": "https://t.co/uQhsxoKh97"
-          }
-        ]
-      },
-      "id": "1602226758115241984",
-      "public_metrics": {
-        "like_count": 11,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 1
-      },
-      "text": "そろそろ年末が近付いてきましたね。\nぎんざ658画廊は11:00-19:00の間OPENになりますので、\nお気をつけてお越しくださいませ。\n\nぎんざ658画廊までの交通案内\nJR・東京メトロ有楽町線「有楽町駅」徒歩7分\n東京メトロ日比谷線「銀座駅」徒歩6分\n東京メトロ銀座線・丸の内線「銀座駅」徒歩4分\n\n#油絵 https://t.co/uQhsxoKh97"
-    },
-    {
-      "attachments": {
-        "media_keys": [
-          "3_1602226556490772480",
-          "3_1602226556482465793"
-        ]
-      },
-      "created_at": "2022-12-12T08:59:21.000Z",
-      "edit_history_tweet_ids": [
-        "1602226589080555520"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 32,
-            "start": 29,
-            "tag": "油絵"
-          },
-          {
-            "end": 37,
-            "start": 33,
-            "tag": "油彩画"
-          },
-          {
-            "end": 43,
-            "start": 39,
-            "tag": "art"
-          },
-          {
-            "end": 58,
-            "start": 46,
-            "tag": "絵描きさんと繋がりたい"
-          },
-          {
-            "end": 69,
-            "start": 60,
-            "tag": "ほぼ毎日油絵生活"
-          }
-        ],
-        "urls": [
-          {
-            "display_url": "pic.twitter.com/fFguHoRXHa",
-            "end": 93,
-            "expanded_url": "https://twitter.com/SS_20221208/status/1602226589080555520/photo/1",
-            "media_key": "3_1602226556490772480",
-            "start": 70,
-            "url": "https://t.co/fFguHoRXHa"
-          },
-          {
-            "display_url": "pic.twitter.com/fFguHoRXHa",
-            "end": 93,
-            "expanded_url": "https://twitter.com/SS_20221208/status/1602226589080555520/photo/1",
-            "media_key": "3_1602226556482465793",
-            "start": 70,
-            "url": "https://t.co/fFguHoRXHa"
-          }
-        ]
-      },
-      "id": "1602226589080555520",
-      "public_metrics": {
-        "like_count": 17,
-        "quote_count": 1,
-        "reply_count": 2,
-        "retweet_count": 1
-      },
-      "text": "ほぼ毎日油絵生活 6日目\n\n「左30°のラフランス」\n\n #油絵 #油彩画  #art \n #絵描きさんと繋がりたい\n #ほぼ毎日油絵生活 https://t.co/fFguHoRXHa"
-    },
-    {
-      "attachments": {
-        "media_keys": [
-          "3_1602225826119921664"
-        ]
-      },
-      "created_at": "2022-12-12T08:56:20.000Z",
-      "edit_history_tweet_ids": [
-        "1602225831044034560"
-      ],
-      "entities": {
-        "annotations": [
-          {
-            "end": 137,
-            "normalized_text": "TKfrom凛",
-            "probability": 0.4256,
-            "start": 131,
-            "type": "Person"
-          }
-        ],
-        "hashtags": [
-          {
-            "end": 3,
-            "start": 0,
-            "tag": "油絵"
-          },
-          {
-            "end": 8,
-            "start": 5,
-            "tag": "油彩"
-          },
-          {
-            "end": 14,
-            "start": 10,
-            "tag": "人物画"
-          },
-          {
-            "end": 19,
-            "start": 16,
-            "tag": "絵画"
-          },
-          {
-            "end": 26,
-            "start": 22,
-            "tag": "練習画"
-          },
-          {
-            "end": 36,
-            "start": 28,
-            "tag": "アナログ絵描き"
-          },
-          {
-            "end": 49,
-            "start": 37,
-            "tag": "絵描きさんと繋がりたい"
-          },
-          {
-            "end": 64,
-            "start": 51,
-            "tag": "TKfrom凛として時雨"
-          }
-        ],
-        "urls": [
-          {
-            "display_url": "pic.twitter.com/VeJ3O9KuXs",
-            "end": 177,
-            "expanded_url": "https://twitter.com/kaeru_2022_1125/status/1602225831044034560/photo/1",
-            "media_key": "3_1602225826119921664",
-            "start": 154,
-            "url": "https://t.co/VeJ3O9KuXs"
-          }
-        ]
-      },
-      "id": "1602225831044034560",
-      "public_metrics": {
-        "like_count": 43,
-        "quote_count": 0,
-        "reply_count": 3,
-        "retweet_count": 6
-      },
-      "text": "#油絵  #油彩  #人物画  #絵画   #練習画  #アナログ絵描き #絵描きさんと繋がりたい  #TKfrom凛として時雨 \n油絵を始めて14日目🔰人物画って本当に難しいね😵‍💫似てなくて申し訳ない💦必死に愛を込めて描きました🎨\n\nF6 人物画 TKfrom凛として時雨のTK(感謝の気持ちを込めて) https://t.co/VeJ3O9KuXs"
-    },
-    {
-      "attachments": {
-        "media_keys": [
-          "3_1602222686742028288",
-          "3_1602222686721097728",
-          "3_1602222686708502528",
-          "3_1602222686729445376"
-        ]
-      },
-      "created_at": "2022-12-12T08:44:31.000Z",
-      "edit_history_tweet_ids": [
-        "1602222855789215745"
-      ],
-      "entities": {
-        "annotations": [
-          {
-            "end": 11,
-            "normalized_text": "生活の小屋",
-            "probability": 0.4423,
-            "start": 7,
-            "type": "Other"
-          }
-        ],
-        "urls": [
-          {
-            "display_url": "pic.twitter.com/VJ9ukqf7wU",
-            "end": 51,
-            "expanded_url": "https://twitter.com/tokagekire/status/1602222855789215745/photo/1",
-            "media_key": "3_1602222686742028288",
-            "start": 28,
-            "url": "https://t.co/VJ9ukqf7wU"
-          },
-          {
-            "display_url": "pic.twitter.com/VJ9ukqf7wU",
-            "end": 51,
-            "expanded_url": "https://twitter.com/tokagekire/status/1602222855789215745/photo/1",
-            "media_key": "3_1602222686721097728",
-            "start": 28,
-            "url": "https://t.co/VJ9ukqf7wU"
-          },
-          {
-            "display_url": "pic.twitter.com/VJ9ukqf7wU",
-            "end": 51,
-            "expanded_url": "https://twitter.com/tokagekire/status/1602222855789215745/photo/1",
-            "media_key": "3_1602222686708502528",
-            "start": 28,
-            "url": "https://t.co/VJ9ukqf7wU"
-          },
-          {
-            "display_url": "pic.twitter.com/VJ9ukqf7wU",
-            "end": 51,
-            "expanded_url": "https://twitter.com/tokagekire/status/1602222855789215745/photo/1",
-            "media_key": "3_1602222686729445376",
-            "start": 28,
-            "url": "https://t.co/VJ9ukqf7wU"
-          }
-        ]
-      },
-      "id": "1602222855789215745",
-      "public_metrics": {
-        "like_count": 28,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "進級制作\n\n「生活の小屋」\nダンボール、油彩、クレヨン https://t.co/VJ9ukqf7wU"
     }
   ],
   "includes": {
     "media": [
       {
-        "height": 797,
-        "media_key": "3_1563666423603515396",
+        "height": 2048,
+        "media_key": "3_1602386775309049856",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/FbNCU94X0AQ2Dqr.jpg",
-        "width": 650
+        "url": "https://pbs.twimg.com/media/FjzSSEcUYAAztL4.jpg",
+        "width": 1152
+      },
+      {
+        "height": 430,
+        "media_key": "3_1602349760400486400",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FjywnhKacAASJ7k.jpg",
+        "width": 600
+      },
+      {
+        "height": 1044,
+        "media_key": "3_1602316320703647744",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FjySNElaEAApzZk.jpg",
+        "width": 1428
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1602290403428167681",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fjx6ofNacAEXRh5.jpg",
+        "width": 872
       },
       {
         "height": 2048,
-        "media_key": "3_1602290056366280704",
+        "media_key": "3_1602287807791534080",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fjx6USTaUAAZl5s.jpg",
+        "url": "https://pbs.twimg.com/media/Fjx4RZtakAA5GVL.jpg",
         "width": 1536
       },
       {
-        "height": 588,
-        "media_key": "3_1601969721930584064",
+        "height": 761,
+        "media_key": "3_1601533858973110272",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/FjtW-XiakAAu9p2.jpg",
-        "width": 706
+        "url": "https://pbs.twimg.com/media/FjnKjzfaUAAUZuD.png",
+        "width": 616
       },
       {
-        "height": 1080,
-        "media_key": "3_1602278964776476672",
+        "height": 1440,
+        "media_key": "3_1602278961538486274",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/FjxwOq6VIAAF-R_.jpg",
+        "url": "https://pbs.twimg.com/media/FjxwOe2VUAIwMyl.jpg",
         "width": 1080
       },
       {
@@ -1548,18 +1183,25 @@
         "width": 1080
       },
       {
-        "height": 1318,
-        "media_key": "3_1602278772321189890",
+        "height": 1908,
+        "media_key": "3_1602276395195170817",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/FjxwDd9agAIqn3c.jpg",
-        "width": 2048
+        "url": "https://pbs.twimg.com/media/Fjxt5GeaAAEfCK8.jpg",
+        "width": 1352
       },
       {
-        "height": 508,
-        "media_key": "3_1602275303577235457",
+        "height": 480,
+        "media_key": "3_1602275602249445383",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fjxs5j4aMAEyHkm.jpg",
-        "width": 720
+        "url": "https://pbs.twimg.com/media/FjxtK8hacAcdRLr.jpg",
+        "width": 640
+      },
+      {
+        "height": 2008,
+        "media_key": "3_1602275252872294401",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fjxs2m_aMAE7L-I.jpg",
+        "width": 2048
       },
       {
         "height": 1536,
@@ -1570,31 +1212,38 @@
       },
       {
         "height": 2048,
-        "media_key": "3_1602273352793477120",
+        "media_key": "3_1602274115989438464",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/FjxrIApUUAAO2G4.jpg",
-        "width": 1536
+        "url": "https://pbs.twimg.com/media/Fjxr0bxagAAtPMG.jpg",
+        "width": 2048
       },
       {
         "height": 2048,
-        "media_key": "3_1602270374590550017",
+        "media_key": "3_1602270171129077760",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fjxoap-aEAEPEpP.jpg",
-        "width": 1704
+        "url": "https://pbs.twimg.com/media/FjxoO0BaYAAFb1J.jpg",
+        "width": 1152
       },
       {
-        "height": 1772,
-        "media_key": "3_1602266702389342208",
+        "height": 2048,
+        "media_key": "3_1602270171108114432",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/FjxlE59acAAZMjL.jpg",
-        "width": 1252
+        "url": "https://pbs.twimg.com/media/FjxoOz8agAA1Krg.jpg",
+        "width": 1152
       },
       {
-        "height": 1772,
-        "media_key": "3_1602266702406115328",
+        "height": 360,
+        "media_key": "3_1602226620215201793",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/FjxlE6BaYAAqxF9.jpg",
-        "width": 1250
+        "url": "https://pbs.twimg.com/media/FjxAn0OaEAEFn_F.jpg",
+        "width": 640
+      },
+      {
+        "height": 360,
+        "media_key": "3_1602226620382998528",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FjxAn02acAA8mFI.jpg",
+        "width": 640
       },
       {
         "height": 360,
@@ -1604,32 +1253,32 @@
         "width": 640
       },
       {
-        "height": 360,
-        "media_key": "3_1602226620643053568",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FjxAn10akAAETGD.jpg",
-        "width": 640
-      },
-      {
         "height": 2272,
-        "media_key": "3_1602262399977132032",
+        "media_key": "3_1602262454876385280",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/FjxhKeOaEAAaylV.jpg",
+        "url": "https://pbs.twimg.com/media/FjxhNqvaMAAjzt2.jpg",
         "width": 1704
       },
       {
         "height": 1704,
-        "media_key": "3_1602262216438603777",
+        "media_key": "3_1602261985714139138",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fjxg_yfaYAEZqEP.jpg",
+        "url": "https://pbs.twimg.com/media/FjxgyW-acAIxfAe.jpg",
         "width": 2272
       },
       {
         "height": 1704,
-        "media_key": "3_1602261550462820352",
+        "media_key": "3_1602261331683737600",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/FjxgZBiaYAAJw0z.jpg",
+        "url": "https://pbs.twimg.com/media/FjxgMShagAAvnFI.jpg",
         "width": 2272
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1602261318538432514",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FjxgLhjVEAIyLuL.jpg",
+        "width": 1536
       },
       {
         "height": 3076,
@@ -1637,6 +1286,20 @@
         "type": "photo",
         "url": "https://pbs.twimg.com/media/FjxgFTOagAAF9_r.jpg",
         "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1602261211646943234",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FjxgFTWaYAIh-VL.jpg",
+        "width": 3076
+      },
+      {
+        "height": 1046,
+        "media_key": "3_1602261051260956672",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fjxf793acAAukbf.jpg",
+        "width": 1568
       },
       {
         "height": 1536,
@@ -1661,6 +1324,20 @@
       },
       {
         "height": 1920,
+        "media_key": "3_1602137602165014529",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FjvvqSJXgAE3E4E.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1602137627330854913",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fjvvrv5XwAEGKYe.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
         "media_key": "3_1602165546929225728",
         "type": "photo",
         "url": "https://pbs.twimg.com/media/FjwJE4gWAAA3XuE.jpg",
@@ -1681,11 +1358,32 @@
         "width": 2048
       },
       {
+        "height": 512,
+        "media_key": "3_1602254904529022977",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FjxaWLgUcAEXFaw.jpg",
+        "width": 606
+      },
+      {
+        "height": 1588,
+        "media_key": "3_1602254298619879424",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FjxZy6UUoAA5pdA.jpg",
+        "width": 1932
+      },
+      {
         "height": 2048,
         "media_key": "3_1602254298632462336",
         "type": "photo",
         "url": "https://pbs.twimg.com/media/FjxZy6XUoAAz4j6.jpg",
         "width": 2048
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1602251410074370049",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FjxXKxpaAAE_Uow.jpg",
+        "width": 706
       },
       {
         "height": 640,
@@ -1903,184 +1601,130 @@
         "type": "photo",
         "url": "https://pbs.twimg.com/media/FjxGUGyVIAAOrxc.jpg",
         "width": 360
-      },
-      {
-        "height": 2048,
-        "media_key": "3_1602232061485383680",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FjxFkiiUAAANd5m.jpg",
-        "width": 945
-      },
-      {
-        "height": 1941,
-        "media_key": "3_1602232075616079872",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FjxFlXLVUAAxmun.jpg",
-        "width": 1080
-      },
-      {
-        "height": 2048,
-        "media_key": "3_1602232092045123584",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FjxFmUYUoAA0-YT.jpg",
-        "width": 947
-      },
-      {
-        "height": 1536,
-        "media_key": "3_1602230442706362375",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FjxEGUHUYAc1YU2.jpg",
-        "width": 2048
-      },
-      {
-        "height": 1301,
-        "media_key": "3_1602230395357257728",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FjxEDjuaYAAHRj_.jpg",
-        "width": 1864
-      },
-      {
-        "height": 2048,
-        "media_key": "3_1602229807969751041",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FjxDhXiUUAE7IZi.jpg",
-        "width": 1536
-      },
-      {
-        "height": 2048,
-        "media_key": "3_1602229807965609984",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FjxDhXhVIAAW10d.jpg",
-        "width": 1536
-      },
-      {
-        "height": 2048,
-        "media_key": "3_1602228373001932801",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FjxCN13VEAEx9qX.jpg",
-        "width": 1600
-      },
-      {
-        "height": 683,
-        "media_key": "3_1602228196333670402",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FjxCDjuVUAIJswl.jpg",
-        "width": 1024
-      },
-      {
-        "height": 2048,
-        "media_key": "3_1602226964076847105",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FjxA71NaYAEzlHr.jpg",
-        "width": 1536
-      },
-      {
-        "height": 2560,
-        "media_key": "3_1602226857398702080",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FjxA1nzXEAA_lH2.jpg",
-        "width": 1920
-      },
-      {
-        "height": 1632,
-        "media_key": "3_1602136836423307267",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fjvu9tiUUAMMQN4.jpg",
-        "width": 1708
-      },
-      {
-        "height": 4096,
-        "media_key": "3_1602226556490772480",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FjxAkG1UcAAj7qe.jpg",
-        "width": 2184
-      },
-      {
-        "height": 4096,
-        "media_key": "3_1602226556482465793",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FjxAkGzVsAEkXL9.jpg",
-        "width": 2730
-      },
-      {
-        "height": 2048,
-        "media_key": "3_1602225826119921664",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fjw_5l_VsAAlqmt.jpg",
-        "width": 1536
-      },
-      {
-        "height": 1536,
-        "media_key": "3_1602225790607032320",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fjw_3hsaAAAd1a6.jpg",
-        "width": 2048
-      },
-      {
-        "height": 2048,
-        "media_key": "3_1602225790615449601",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fjw_3huacAEaqiS.jpg",
-        "width": 1536
-      },
-      {
-        "height": 1536,
-        "media_key": "3_1602225790602866688",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fjw_3hracAAorB6.jpg",
-        "width": 2048
-      },
-      {
-        "height": 1536,
-        "media_key": "3_1602225790607065089",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fjw_3hsagAEF7tJ.jpg",
-        "width": 2048
-      },
-      {
-        "height": 1334,
-        "media_key": "3_1602225293288034304",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fjw_alCUUAAcIUQ.jpg",
-        "width": 750
-      },
-      {
-        "height": 2584,
-        "media_key": "3_1602222686742028288",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fjw9C25UoAA7KMe.jpg",
-        "width": 1990
-      },
-      {
-        "height": 2661,
-        "media_key": "3_1602222686721097728",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fjw9C20VQAAUAgS.jpg",
-        "width": 2448
-      },
-      {
-        "height": 2435,
-        "media_key": "3_1602222686708502528",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fjw9C2xVEAAHRJ4.jpg",
-        "width": 2154
-      },
-      {
-        "height": 1799,
-        "media_key": "3_1602222686729445376",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fjw9C22UoAAT2GK.jpg",
-        "width": 1125
-      },
-      {
-        "height": 600,
-        "media_key": "3_1602221405244108807",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fjw74Q8aMAcZtF2.jpg",
-        "width": 498
       }
     ],
     "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1598173672212430850",
+            "3_1598173675525931008",
+            "3_1598173681842556928",
+            "3_1598173689597820928"
+          ]
+        },
+        "created_at": "2022-12-01T04:34:35.000Z",
+        "edit_history_tweet_ids": [
+          "1598173693607567360"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "幻想五重奏",
+              "probability": 0.6839,
+              "start": 11,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 90,
+              "id": "1227934941255622656",
+              "start": 75,
+              "username": "LumiereGalerie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/p70iT7QFzo",
+              "end": 114,
+              "expanded_url": "https://twitter.com/RemiTakara/status/1598173693607567360/photo/1",
+              "media_key": "3_1598173672212430850",
+              "start": 91,
+              "url": "https://t.co/p70iT7QFzo"
+            },
+            {
+              "display_url": "pic.twitter.com/p70iT7QFzo",
+              "end": 114,
+              "expanded_url": "https://twitter.com/RemiTakara/status/1598173693607567360/photo/1",
+              "media_key": "3_1598173675525931008",
+              "start": 91,
+              "url": "https://t.co/p70iT7QFzo"
+            },
+            {
+              "display_url": "pic.twitter.com/p70iT7QFzo",
+              "end": 114,
+              "expanded_url": "https://twitter.com/RemiTakara/status/1598173693607567360/photo/1",
+              "media_key": "3_1598173681842556928",
+              "start": 91,
+              "url": "https://t.co/p70iT7QFzo"
+            },
+            {
+              "display_url": "pic.twitter.com/p70iT7QFzo",
+              "end": 114,
+              "expanded_url": "https://twitter.com/RemiTakara/status/1598173693607567360/photo/1",
+              "media_key": "3_1598173689597820928",
+              "start": 91,
+              "url": "https://t.co/p70iT7QFzo"
+            }
+          ]
+        },
+        "id": "1598173693607567360",
+        "public_metrics": {
+          "like_count": 55,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "text": "明日から開催されます「幻想五重奏」展にて作品５点出品しております。ご高覧いただけましたら嬉しいです。よろしくお願いします。詳細はこちらで閲覧できます。@LumiereGalerie https://t.co/p70iT7QFzo"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1602334119924416512",
+            "3_1602334120050233344"
+          ]
+        },
+        "created_at": "2022-12-12T16:30:15.000Z",
+        "edit_history_tweet_ids": [
+          "1602340060841377803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/rGY7hwyp89",
+              "end": 52,
+              "expanded_url": "https://twitter.com/transparent70/status/1602340060841377803/photo/1",
+              "media_key": "3_1602334119924416512",
+              "start": 29,
+              "url": "https://t.co/rGY7hwyp89"
+            },
+            {
+              "display_url": "pic.twitter.com/rGY7hwyp89",
+              "end": 52,
+              "expanded_url": "https://twitter.com/transparent70/status/1602340060841377803/photo/1",
+              "media_key": "3_1602334120050233344",
+              "start": 29,
+              "url": "https://t.co/rGY7hwyp89"
+            }
+          ]
+        },
+        "id": "1602340060841377803",
+        "public_metrics": {
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1602340053694283777",
+            "type": "replied_to"
+          }
+        ],
+        "text": "左のフレーム、近くで見てもアクリルハマってるのが解らない https://t.co/rGY7hwyp89"
+      },
       {
         "attachments": {
           "media_keys": [
@@ -2175,7 +1819,7 @@
         },
         "id": "1602313117240725504",
         "public_metrics": {
-          "like_count": 9,
+          "like_count": 10,
           "quote_count": 1,
           "reply_count": 2,
           "retweet_count": 2
@@ -2427,7 +2071,7 @@
         },
         "id": "1602276990031392770",
         "public_metrics": {
-          "like_count": 5,
+          "like_count": 6,
           "quote_count": 0,
           "reply_count": 2,
           "retweet_count": 0
@@ -2588,7 +2232,7 @@
         },
         "id": "1601126773521285121",
         "public_metrics": {
-          "like_count": 9,
+          "like_count": 11,
           "quote_count": 0,
           "reply_count": 1,
           "retweet_count": 0
@@ -2702,7 +2346,7 @@
         },
         "id": "1601457342012612608",
         "public_metrics": {
-          "like_count": 26,
+          "like_count": 27,
           "quote_count": 0,
           "reply_count": 1,
           "retweet_count": 7
@@ -2890,57 +2534,13 @@
           "retweet_count": 1
         },
         "text": "紫陽花の絵を描いていたんだ☂️\n今は１２月だけど🎄笑 https://t.co/mOD8Plp7lb"
-      },
-      {
-        "attachments": {
-          "media_keys": [
-            "3_1600052953674444800"
-          ]
-        },
-        "created_at": "2022-12-06T09:02:07.000Z",
-        "edit_history_tweet_ids": [
-          "1600052958288171009"
-        ],
-        "entities": {
-          "hashtags": [
-            {
-              "end": 17,
-              "start": 14,
-              "tag": "油絵"
-            }
-          ],
-          "urls": [
-            {
-              "display_url": "pic.twitter.com/FTPX3658Pm",
-              "end": 41,
-              "expanded_url": "https://twitter.com/suitekisenseki/status/1600052958288171009/photo/1",
-              "media_key": "3_1600052953674444800",
-              "start": 18,
-              "url": "https://t.co/FTPX3658Pm"
-            }
-          ]
-        },
-        "id": "1600052958288171009",
-        "public_metrics": {
-          "like_count": 18,
-          "quote_count": 0,
-          "reply_count": 0,
-          "retweet_count": 0
-        },
-        "referenced_tweets": [
-          {
-            "id": "1597162041843728384",
-            "type": "replied_to"
-          }
-        ],
-        "text": "途中一部、良い色にするぞ！\n#油絵 https://t.co/FTPX3658Pm"
       }
     ]
   },
   "meta": {
-    "newest_id": "1602334799456530432",
-    "next_token": "b26v89c19zqg8o3fqk10eu8qlrtyw6iiw9lbgb8o0anb1",
-    "oldest_id": "1602221418451984384",
+    "newest_id": "1602396185855131658",
+    "next_token": "b26v89c19zqg8o3fqk10eu91h8gaca8cbjk9ek7j39enx",
+    "oldest_id": "1602233412890562561",
     "result_count": 100
   }
 }
